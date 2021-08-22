@@ -1,0 +1,13 @@
+VARIANT #1
+- open repo "https://github.com/GregorHorvatH/git-demo";
+- create fork;
+- create branch "feature/yourLastName" e.g. "feature/gorvat";
+- create folder "yourLastName";
+- create file "homework.txt" in the new folder;
+- add some text to the file;
+- commit and push changes;
+- create PR to main;
+- wait for approve;
+- merge PR;
+
+
